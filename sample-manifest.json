@@ -1,0 +1,12 @@
+{
+  "export_job_id": "4a90f232-4575-4c77-9d75-456297b99d54",
+  "id_short": 161668,
+  "published_at": "2026-04-10T19:21:40Z",
+  "repo_name": "all-restaurants-in-longmont-colorado-us-sample-161668",
+  "sample_asset_name": "beamstation_161668_restaurants-us-co_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/161668/beamstation_161668_restaurants-us-co_SAMPLE_DIST.csv",
+  "sample_records": 23,
+  "sample_sha256": "4b48d6f7f8f20e6f15ff828a45b366b0459cbe540023a12eecae3ab4713d4f0a",
+  "sample_size_bytes": 104987,
+  "total_records": 236
+}
