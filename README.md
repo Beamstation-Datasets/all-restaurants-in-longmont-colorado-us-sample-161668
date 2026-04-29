@@ -1,6 +1,6 @@
 # All Restaurants in Longmont, Colorado, US
 
-> Free BeamStation sample export with 21 rows and masked direct-contact fields.
+> Free BeamStation sample export with 28 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `161668` |
 | Location | Longmont |
 | Category | Restaurants |
-| Full dataset size | 211 records |
-| Free sample size | 21 records (9.95%) |
-| Last export | 2026-04-21T17:55:20.807386+00:00 |
+| Full dataset size | 284 records |
+| Free sample size | 28 records (9.86%) |
+| Last export | 2026-04-28T19:03:54.151752+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-longmont-colorado-us-sample-161668/releases/download/sample-latest/beamstation_161668_restaurants-us-co_SAMPLE_DIST.csv) |
 
 ## What is in this sample
